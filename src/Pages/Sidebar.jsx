@@ -95,7 +95,7 @@ const Navbar = () => {
             ))}
             <li>
               <a
-                href='src\Assets\resume (2).pdf'
+                href='/resume (2).pdf'
                 download
                 className="flex items-center gap-2 px-4 py-2 border border-gray-400 rounded hover:bg-gray-200 hover:text-black transition"
               >
